@@ -1,0 +1,14 @@
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\bin\Debug\BTWindowsForms.exe.config
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\bin\Debug\BTWindowsForms.exe
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\bin\Debug\BTWindowsForms.pdb
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.csproj.AssemblyReference.cache
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.frmBai1.resources
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.frmChinh.resources
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.Properties.Resources.resources
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.csproj.GenerateResource.cache
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.csproj.CoreCompileInputs.cache
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.exe
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.pdb
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.frmBai2.resources
+D:\HocTap\ứng Dụng Desktop\BTWindowsForms\BTWindowsForms\obj\Debug\BTWindowsForms.frmbai3.resources
